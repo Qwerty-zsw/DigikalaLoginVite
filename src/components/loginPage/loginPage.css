@@ -1,0 +1,18 @@
+.btn-log{
+    height: 3.7rem;
+}
+input{
+    height: 3.7rem;
+}
+
+.fs-8{
+    font-size: 13px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.form-control:focus {
+    box-shadow: none;
+} 
